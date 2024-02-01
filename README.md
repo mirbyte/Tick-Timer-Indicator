@@ -1,4 +1,4 @@
-## Tick-Timer-Indicator
+## Tick Timer Indicator for cTrader
 
 
 ### Update log:
